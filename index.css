@@ -1,0 +1,62 @@
+body {
+    background-color: skyblue;
+  }
+  h1 {
+    color: red;
+    display: flex;
+    justify-content: center;
+
+  }
+  .UI {
+    width: 300px;
+    background-color:rgb(240, 128, 240);
+    margin: auto;
+    border-radius: 20px;
+    
+  }
+  input {
+    color: black;
+    width: 100%;
+    height: 150px;
+    border-radius: 20px;
+    margin-top: 10px;
+  }
+  button {
+    margin: auto;
+    width: 52px;
+    padding: 6px;
+    margin-left: 4px;
+    border-radius: 20px;
+    color: rgb(14, 13, 13);
+    background-color: transparent;
+    box-shadow: 2px 5px 4px 3px gray;
+    margin-bottom: 10px;
+    margin-right: 18px;
+    font-size: large;
+    border: none;
+  }
+  button:active {
+    background-color: red;
+  }
+  .fuc {
+    color: red;
+  
+    font-size: large;
+  }
+  .equalto {
+    color: peru;
+    font-size: large;
+    background-color: blanchedalmond;
+    box-shadow: 2px 5px 4px 3px rgb(202, 157, 157);
+  }
+  p {
+    height: 50px;
+    padding-top: 50px;
+    padding-right: 30px;
+    float: right;
+    font-size: 20px;
+  }
+  table {
+    padding-bottom: 10px;
+    padding-top: 10px;
+  }
